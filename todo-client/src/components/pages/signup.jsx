@@ -1,6 +1,4 @@
 import Form from "../common/form";
-import http from "../../services/httpService";
-import { apiUrl } from "../../config.json";
 import { Route } from "../../router";
 import Container from "../container";
 import Joi from "joi-browser";
